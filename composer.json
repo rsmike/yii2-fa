@@ -1,0 +1,21 @@
+{
+  "name": "rsmike/yii2-fa",
+  "description": "Font Awesome asset and helper library for Yii2",
+  "keywords": [
+    "Font Awesome",
+    "fa",
+    "php",
+    "yii2",
+    "asset"
+  ],
+  "license": "MIT",
+  "require": {
+    "yiisoft/yii2": "~2.0.0",
+    "rsmike/fa": "~0.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "rsmike\\yii2fa\\": "src"
+    }
+  }
+}
