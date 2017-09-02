@@ -14,13 +14,13 @@ See https://github.com/rsmike/fa
 Either run
 
 ```bash
-$ composer require rsmike/yii2-fa
+$ composer require rsmike/yii2-fa:~1.0
 ```
 
 or add
 
 ```
-"rsmike/yii2-fa": "*"
+"rsmike/yii2-fa": "~1.0"
 ```
 
 to the `require` section of your `composer.json` file.
